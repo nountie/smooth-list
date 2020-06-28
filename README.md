@@ -1,6 +1,9 @@
 # smooth-list
 - Smooth animations with ul lists only with Vue and CSS3 without any animation libraries (proof of concept)
 
+## DEMO
+[DEMO](https://nountie.github.io/smooth-list/)
+
 ## Project setup
 ```
 yarn install
